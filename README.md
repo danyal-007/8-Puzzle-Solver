@@ -1,6 +1,3 @@
-# 8-Puzzle-Solver
-An implementation of the A* and the Greedy search algorithm to solve the 8-puzzle problem.
-
 # 8-Puzzle Solver
 
 This is a C++ implementation of an 8-puzzle solver using two search algorithms: Greedy Search and A* Search. The program allows users to input their initial state for the 8-puzzle, and then it finds the solution path, solution cost, and number of expanded nodes using the selected search algorithm.
